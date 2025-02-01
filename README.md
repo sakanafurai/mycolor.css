@@ -11,7 +11,7 @@ Customizable color collection with your favorite colors.
 3. Add edited mycolor.css file and stylesheet settings to your website.
 
 ## License
-MIT
+Public domain (since Feb 1 2025)
 
 ---
 
@@ -26,4 +26,4 @@ MIT
 3. ウェブサイトにmycolor.cssのファイルと、スタイルシートの設定を追加する。
 
 ## ライセンス
-MIT
+パブリックドメイン（2025年2月1日以降）
